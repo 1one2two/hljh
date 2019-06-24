@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=mouse
+Exec=@unclutter -display :0 -idle 30 -root -noevents
+Type=Application
+Icon=/home/pi/Downloads/mouse.jpg

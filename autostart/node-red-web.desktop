@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=node-red-web
+#Exec=xdg-open http://127.0.0.1:1880
+Type=Application
+Icon=/home/pi/Downloads/image001.png

@@ -1,0 +1,11 @@
+{
+    "AppName":"ei-mms",
+    "AppKey":"YfgEeop5",
+    "DCenter":"dc@127.0.0.1",
+    "IOC":"",
+    "MotebusGW":"127.0.0.1",
+	"MotebusPort":6161,
+    "UseWeb":"",
+    "WebPort":"",
+    "WebEntry":""
+}

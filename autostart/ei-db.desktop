@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ei-db
+Exec=node /home/pi/echo_ei-db/mcecho.js
+Type=Application
+StartupNotify=true
+Terminal=true
+

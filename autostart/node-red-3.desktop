@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=rtu-flow node-red
+Exec=bash /home/pi/anko/rtu-flow.sh
+Type=Application
+Terminal=true
+Icon=/home/pi/Downloads/Node-red-icon.png
+

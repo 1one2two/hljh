@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=mqtt
+#Exec=systemctl stop snap.mosquitto.mosquitto.service
+Type=Application
+Icon=/home/pi/Downloads/MQTT-icon.png

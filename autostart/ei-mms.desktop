@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ei-mms
+Exec=node /home/pi/echo_ei-mms/mcecho.js
+Type=Application
+StartupNotify=true
+Terminal=true
+

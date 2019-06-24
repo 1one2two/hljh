@@ -1,0 +1,6 @@
+[Desktop Entry] 
+Name=rtu-io node-red
+Exec=bash /home/pi/anko/rtu-io.sh
+Type=Application
+Terminal=true
+Icon=/home/pi/Downloads/Node-red-icon.png

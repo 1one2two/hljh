@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=smartscreen
+#Exec=smartscreen --no-sandbox
+Icon=/snap/smartscreen/current/gui/icon.png
+Type=Application
+StartupNotify=true
+Terminal=true
