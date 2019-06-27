@@ -1,8 +1,8 @@
 #!/bin/bash
 # Program:
-#       This program shows "Hello World!" in your screen.
+#       Install HLJH
 # History:
-# 2015/07/16	VBird	First release
+# 2019/06/27	
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
@@ -17,7 +17,7 @@ sudo pip install .
 
 sudo pip install hcsr04sensor
 
-#Download hljh.py
+curl https://raw.githubusercontent.com/1one2two/hljh/master/hljh.py -o /grove.py/grove/
 
 #Download node red
 
