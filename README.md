@@ -1,2 +1,2 @@
 # hljh
-# hljh
+Run setup.sh
